@@ -1,0 +1,8 @@
+Auth:
+  project_token: e3c10a88-ca80-4393-9725-a3eafe9b2cae
+  customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
+SAST:
+  language: golang-snyk-sast
+SCA:
+  language: golang-snyk-sca
+Secret_Scan: true
